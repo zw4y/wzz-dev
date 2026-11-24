@@ -2,7 +2,7 @@
 
 `wzz-dev` 是一个用于 Codex 的中文技能，覆盖从需求分析到上线运维的八个阶段。它把每条验收条件关联到技术设计、任务卡和测试证据，也支持只执行其中一个阶段。包内附有开发模板和会议室预约示例。
 
-[下载 wzz-dev.skill](https://github.com/zw4y/zw4y/raw/refs/heads/main/downloads/wzz-dev.skill) · [查看技能源码](https://github.com/zw4y/zw4y/tree/main/skills/wzz-dev) · [查看任务卡和验收模板](https://github.com/zw4y/zw4y/blob/main/skills/wzz-dev/references/delivery.md)
+[下载 wzz-dev.skill](https://github.com/zw4y/wzz-dev/raw/refs/heads/main/downloads/wzz-dev.skill) · [查看技能源码](skills/wzz-dev/) · [查看任务卡和验收模板](skills/wzz-dev/references/delivery.md)
 
 **在 Codex 中使用**
 
